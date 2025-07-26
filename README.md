@@ -11,7 +11,7 @@ It displays the current time in 12-hour format with **AM/PM** and updates in rea
 - Fully responsive design (mobile and desktop friendly)
 
 ## 📸 Live Demo
-link:https://github.com/jivan4sharma3/Digital-clock
+link:[https://github.com/jivan4sharma3/Digital-clock](https://jivan4sharma3.github.io/Digital-clock/)
 
 > *(Add a screenshot named `screenshot.png` in your repo for this to show)*
 
